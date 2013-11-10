@@ -7,7 +7,6 @@
 //
 
 #import "CocoaPodTest.h"
-#import <AFNetworking/AFHTTPRequestOperationManager.h>
 
 @implementation CocoaPodTest
 
